@@ -15,9 +15,7 @@ html {
   color: #222;
   font-size: 1em;
   line-height: 1.4;
-  font-family: 'Josefin Sans', sans-serif;
 }
-
 
 /*
  * Remove text-shadow in selection highlight:
@@ -171,18 +169,6 @@ textarea {
   clear: both;
 }
 
-.f-row {
-  display: flex;
-  justify-content: center;
-}
-.f-row img {
-  flex-basis: 25%;
-  max-width: 600px;
-}
-f-col {
-  
-}
-
 /* ==========================================================================
    EXAMPLE Media Queries for Responsive Design.
    These examples override the primary ('mobile first') styles.
@@ -273,42 +259,5 @@ f-col {
   h3 {
     page-break-after: avoid;
   }
-  
-  
-  
 }
 
-
-ul {
-  list-style-type: none;
-  border: 2px dotted red;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
-  height:400px;
-  align-items: stretch;
-}
-
-li {
-  border: 1px solid blueviolet;
-  margin: 0.5em;
-}
-
-.flex1 {
-  border: 3px solid pink;
-  order: 1;
-}
-.flex2 {
-  border: 3px solid blue;
-  order: 2;
-  flex-basis: 25%;
-}
-.flex3 {
-  border: 3px solid salmon;
-  order: 3;
-}
-
-
-/*# sourceMappingURL=/main.c52e0fe2.css.map */

@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/main.js"],"names":["console","log"],"mappings":"AAAC,aAAW;AACVA,EAAAA,OAAO,CAACC,GAAR,CAAY,IAAZ;AACD,CAFA,GAAD","file":"main.fb6bbcaf.js","sourceRoot":"..","sourcesContent":["(function() {\n  console.log('ok')\n}());\n"]}

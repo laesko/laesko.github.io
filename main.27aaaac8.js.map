@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/main.js"],"names":["console","log"],"mappings":";AACEA,QAAQC,IAAI","file":"main.27aaaac8.js","sourceRoot":"..","sourcesContent":["(function() {\n  console.log('ok')\n}());\n"]}
