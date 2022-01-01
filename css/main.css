@@ -234,6 +234,34 @@ a {
 .ml-1 {
   margin-left: 1.1rem;
 }
+.description, .image-label {
+  max-width: 324px;
+}
+.image-label {
+  text-align: justify;
+}
+#product-description {
+  margin-bottom: 0;
+}
+#product-price {
+  margin-top: 0;
+  text-align: center;
+  font-weight: 600;
+  font-size: 0.8em;
+  text-decoration: underline;
+}
+.image-label {
+  font-size: 0.8em;
+}
+.description h2, .description p {
+  text-align: left;
+}
+.description h1 {
+  font-size: 1.8em;
+}
+.description h2 {
+  font-size: 1.15em;
+}
 
 /* ==========================================================================
    EXAMPLE Media Queries for Responsive Design.
